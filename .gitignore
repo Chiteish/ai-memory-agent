@@ -1,4 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Python cache
 __pycache__/
-.env
+
+# ChromaDB memory
 memory_db/
-*.sqlite3
+
+# OS files
+.DS_Store
