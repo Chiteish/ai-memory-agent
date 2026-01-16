@@ -1,0 +1,4 @@
+__pycache__/
+.env
+memory_db/
+*.sqlite3
